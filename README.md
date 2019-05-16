@@ -7,4 +7,3 @@ TransactionItem from Orchestrator : PDF file url
 Download PDF file from web
 Extract Data from PDF
 Create Json 
-Upload Json to Dropbox or Google Drive
